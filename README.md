@@ -1,1 +1,1 @@
-# Mini-Project1_Technocolab
+# Employee-Attrition-Analysis_project
